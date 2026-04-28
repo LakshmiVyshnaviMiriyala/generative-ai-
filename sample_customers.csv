@@ -1,0 +1,11 @@
+customer_id,name,email,purchase_history,segment
+1,Priya Sharma,priya@example.com,"Running Shoes,Yoga Mat",mid
+2,Rahul Menon,rahul@example.com,"Formal Shirt,Leather Wallet",premium
+3,Sneha Iyer,sneha@example.com,"Budget Earphones,USB Cable",budget
+4,Arjun Patel,arjun@example.com,"Wireless Headphones,Laptop Stand,Mechanical Keyboard",premium
+5,Meera Nair,meera@example.com,"Cotton Kurti,Jute Bag",budget
+6,Vikram Singh,vikram@example.com,"Protein Powder,Gym Gloves,Water Bottle",mid
+7,Ananya Reddy,ananya@example.com,"Lipstick,Face Serum,Moisturizer",premium
+8,Kiran Joshi,kiran@example.com,"Budget Notebook,Ballpoint Pens",budget
+9,Divya Krishnan,divya@example.com,"Casual Sneakers,Denim Jacket",mid
+10,Rohan Gupta,rohan@example.com,"Smart Watch,Bluetooth Speaker,Phone Case",premium
